@@ -1,0 +1,4 @@
+numpy
+pandas
+scikit-learn==1.1.0
+tensorflow-gpu==2.4.1
